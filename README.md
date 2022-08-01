@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋-->
 ![logo-white](https://user-images.githubusercontent.com/78037754/182159596-c91c76ca-ac98-4bfa-a829-a8686fa1f5b7.svg)
 <!--
 **YellocandyCreationz/YellocandyCreationz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellocandyCreationz" alt="YellocandyCreationz" /> 
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YellocandyCreationz" alt="YellocandyCreationz" /> -->
 
 
